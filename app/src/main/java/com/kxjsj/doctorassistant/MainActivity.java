@@ -2,7 +2,7 @@ package com.kxjsj.doctorassistant;
 
 import android.os.Bundle;
 
-import com.kxjsj.doctorassistant.Rx.Component.BaseTitleActivity;
+import com.kxjsj.doctorassistant.Component.BaseTitleActivity;
 
 
 public class MainActivity extends BaseTitleActivity {

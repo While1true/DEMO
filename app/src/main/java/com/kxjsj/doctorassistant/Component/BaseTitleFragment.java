@@ -1,4 +1,4 @@
-package com.kxjsj.doctorassistant.Rx.Component;
+package com.kxjsj.doctorassistant.Component;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -30,7 +30,7 @@ public abstract class BaseTitleFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        view = inflater.inflate(getLayoutId(), container,true);
+        view = inflater.inflate(getLayoutId(), container,false);
         return view;
     }
 

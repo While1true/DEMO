@@ -1,4 +1,4 @@
-package com.kxjsj.doctorassistant.Rx.Component;
+package com.kxjsj.doctorassistant.Component;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
