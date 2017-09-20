@@ -11,6 +11,7 @@
         android:layout_height="250dp"
         android:text="Hello World!"
         android:background="#636465"
+        android:onClick="cc"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
